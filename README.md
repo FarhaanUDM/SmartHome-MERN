@@ -1,4 +1,4 @@
-# E-Commerce MERN stack Ifnal project
+# E-Commerce MERN stack final project
 
 1. Frontend
    1. setup react & initialize git
