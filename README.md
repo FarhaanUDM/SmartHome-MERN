@@ -28,7 +28,17 @@
    8. product controller
 
 4. Redux Toolkit setup & State manangement
+
    1. redux store & API slice
    2. Products API Slice & get products endpoint
    3. 2get product details endpoint
    4. loader and message components
+
+5. Shopping Cart functionality
+   1. Cart slice & Reducer
+   2. Add to Cart function
+   3. Qty & Add to cart handler
+   4. Cart utils file
+   5. Item count header
+   6. Cart screen
+   7. Remove from cart
