@@ -10,7 +10,19 @@
    6. create product details screen and add route
 
 2. Create Server side & Prepare Backend api
+
    1. Express server & initial product routes
    2. Install Nodemon & Concurrently
    3. Add Environment Variables
    4. Fetch products from backend api
+
+3. MongoDB Atlass & Compass setup
+   1. connect to Db with Mongoose
+   2. Modeling of data (products,orders,users,....)
+   3. prepare sample data
+   4. seed sample data
+   5. use postman api
+   6. get products from database
+   7. solve middleware error 
+   8. product controller
+
