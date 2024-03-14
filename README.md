@@ -31,8 +31,8 @@
 
    1. redux store & API slice
    2. Products API Slice & get products endpoint
-   3. 2get product details endpoint
-   4. loader and message components
+   3. Get product details endpoint
+   4. Loader and Message components
 
 5. Shopping Cart functionality
    1. Cart slice & Reducer
