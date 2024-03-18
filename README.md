@@ -35,6 +35,7 @@
    4. loader and message components
 
 5. Shopping Cart functionality
+
    1. Cart slice & Reducer
    2. Add to Cart function
    3. Qty & Add to cart handler
@@ -42,3 +43,13 @@
    5. Item count header
    6. Cart screen
    7. Remove from cart
+
+6. Backend Authentication
+   1. User routes & controller
+   2. User email & password validation
+   3. JWT HTTP only cookie
+   4. Authentication middleware & Endpoint
+   5. Logout user & clear cookie
+   6. User Register Endpoint & Encryption
+   7. User Register Endpoint & Encryption
+   8. User profile endpoints
