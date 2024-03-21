@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
-import { UseDispatch, useDispatch } from 'react-redux';
+import {  useDispatch } from 'react-redux';
 import {
   Row,
   Col,

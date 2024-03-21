@@ -45,6 +45,7 @@
    7. Remove from cart
 
 6. Backend Authentication
+
    1. User routes & controller
    2. User email & password validation
    3. JWT HTTP only cookie
@@ -53,3 +54,10 @@
    6. User Register Endpoint & Encryption
    7. User Register Endpoint & Encryption
    8. User profile endpoints
+
+7. Frontend Authentication
+   1. Authentication & User API Slice
+   2. Login screen
+   3. Login functionality
+   4. User logout
+   5. User registration
