@@ -56,8 +56,19 @@
    8. User profile endpoints
 
 7. Frontend Authentication
+
    1. Authentication & User API Slice
    2. Login screen
    3. Login functionality
    4. User logout
    5. User registration
+
+8. Checkout Process - Part 1
+   1. Shipping Screen
+   2. Private Routes
+   3. Checkout steps Component
+   4. Payment Method
+   5. Order Routes & Controller
+   6. Create & Get Orders
+   7. Order API slice & Stat Order Screen
+   8. Create an Order
