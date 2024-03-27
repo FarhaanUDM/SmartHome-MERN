@@ -64,6 +64,7 @@
    5. User registration
 
 8. Checkout Process - Part 1
+
    1. Shipping Screen
    2. Private Routes
    3. Checkout steps Component
@@ -72,3 +73,11 @@
    6. Create & Get Orders
    7. Order API slice & Stat Order Screen
    8. Create an Order
+
+9. Checkout Process - Part 2
+   1. Order page
+   2. Paypal setup & Order Paid
+   3. React - Paypal Integration
+   4. Paypal buttons
+   5. User profile & Update
+   6. Display order history
