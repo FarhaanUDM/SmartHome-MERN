@@ -75,9 +75,26 @@
    8. Create an Order
 
 9. Checkout Process - Part 2
+
    1. Order page
    2. Paypal setup & Order Paid
    3. React - Paypal Integration
    4. Paypal buttons
    5. User profile & Update
    6. Display order history
+
+10. Admin Functionality
+    1. Admin Route component
+    2. List orders for admin
+    3. Deliver order status
+    4. List products for admin
+    5. Creating products
+    6. Edit product
+    7. Update product bug fix
+    8. Multer & Image upload endpoint
+    9. Upload product image - Frontend
+    10. Delete products
+    11. Backend user routes
+    12. List users for admin
+    13. Delete user
+    14. Update user
